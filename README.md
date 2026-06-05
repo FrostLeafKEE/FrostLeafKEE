@@ -4,8 +4,8 @@
 # FrostLeafKEE.
 
 <!-- 这里是你的徽章 (Badges)，可以根据需要增删
-[![知乎](https://img.shields.io/badge/知乎-mq白-green.svg)](你的知乎链接)
-[![YouTube](https://img.shields.io/badge/video-YouTube-red.svg)](你的YouTube链接)
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E5%93%94%E5%93%A9%E5%93%A9%E5%93%A9-00AEEC?logo=bilibili&logoColor=white)](https://space.bilibili.com/40393776?spm_id_from=333.788.0.0)
+[![Email](https://img.shields.io/badge/Email-联系我-EA4335?logo=gmail&logoColor=white)](mailto:Kai2257813617@163.com)
  -->
 <!-- 第二排标签 -->
 ![Modern Pyhton](https://img.shields.io/badge/code-Python-3776AB)
