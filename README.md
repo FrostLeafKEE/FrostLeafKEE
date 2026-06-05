@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/video-YouTube-red.svg)](你的YouTube链接)
  -->
 <!-- 第二排标签 -->
-![Modern Pyhton](https://img.shields.io/badge/code-Modern%20C%2B%2B-blue)
+![Modern Pyhton](https://img.shields.io/badge/code-Python-3776AB)
 ![学习](https://img.shields.io/badge/讨厌-学习-yellow)
 ![开朗](https://img.shields.io/badge/性格-开朗-brightgreen)
 ![二次元](https://img.shields.io/badge/爱好-二次元-orange)
